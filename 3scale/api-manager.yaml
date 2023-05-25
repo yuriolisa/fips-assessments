@@ -3,4 +3,5 @@ kind: APIManager
 metadata:
   name: example-apimanager
 spec:
-  wildcardDomain: fips.opdev.op
+  wildcardDomain: fips.opdev.io
+  resourceRequirementsEnabled: false
